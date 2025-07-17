@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 This is a test file
+=======
+
+this is the things i am adding from vi editor
+
+>>>>>>> origin/branch2
